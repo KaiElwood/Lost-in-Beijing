@@ -1,0 +1,20 @@
+.topNav {
+  width: 100vw;
+  position: fixed;
+}
+
+.topNav img {
+  float: left;
+}
+
+.topNav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.topNav li {
+    float: left;
+    margin: auto;
+    padding: 0 7vw;
+}
